@@ -6,12 +6,6 @@
         {
             string name = GetValidName();
             string surname = GetValidSurname();
-            string fatherName = GetValidFatherName();
-            int age = GetValidAge();
-            string fin = GetValidFIN();
-            string phoneNumber = GetValidPhoneNumber();
-            string position = GetValidPosition();
-            int salary = GetValidSalary();
 
             Console.WriteLine($" {name} {surname}  sisteme elave olundu");
         }
@@ -26,7 +20,7 @@
                 {
                     return name;
                 }
-                Console.WriteLine("Ad duzgzn deyil. Adın uzunluğu 2-20 arasında olmalı ve yalniz herflerden ibaret olmalıdır, ilk herf boyuk olmalıdır.");
+                Console.WriteLine("Ad duzgun deyil. Adın uzunluğu 2-20 arasında olmalı ve yalniz herflerden ibaret olmalıdır, ilk herf boyuk olmalıdır.");
             }
         }
 
