@@ -1,0 +1,15 @@
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\bin\Debug\net6.0\HR-App.exe
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\bin\Debug\net6.0\HR-App.deps.json
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\bin\Debug\net6.0\HR-App.runtimeconfig.json
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\bin\Debug\net6.0\HR-App.dll
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\bin\Debug\net6.0\HR-App.pdb
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\HR-App.csproj.AssemblyReference.cache
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\HR-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\HR-App.AssemblyInfoInputs.cache
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\HR-App.AssemblyInfo.cs
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\HR-App.csproj.CoreCompileInputs.cache
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\HR-App.dll
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\refint\HR-App.dll
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\HR-App.pdb
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\HR-App.genruntimeconfig.cache
+C:\Users\Sabir\Desktop\PB303\HR-App\HR-App\obj\Debug\net6.0\ref\HR-App.dll
